@@ -1,0 +1,9 @@
+Package: com.rpetrich.anispeed
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Adjust animation speed
+Name: AniSpeed
+Depends: firmware (>= 3.0), mobilesubstrate
+Author: Ryan Petrich <rpetrich@gmail.com>
